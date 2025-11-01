@@ -130,11 +130,11 @@ int main() {
 
     // Super Poder final
     if (superPoder1 > superPoder2)
-        printf("\n🏆 Super Poder: %s é a carta vencedora geral!\n", cidade1);
+        printf("\n Super Poder: %s é a carta vencedora geral!\n", cidade1);
     else if (superPoder2 > superPoder1)
-        printf("\n🏆 Super Poder: %s é a carta vencedora geral!\n", cidade2);
+        printf("\nSuper Poder: %s é a carta vencedora geral!\n", cidade2);
     else
-        printf("\n🏆 Super Poder: Empate total!\n");
+        printf("\n Super Poder: Empate total!\n");
 
     printf("\n--- Fim da Simulação do Super Trunfo - Nível Mestre ---\n");
 
